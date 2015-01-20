@@ -1,0 +1,74 @@
+[
+			{
+				"firstName": "John",
+				"lastName": "Doe",
+                "timeLapse": 20,
+                "text": "Status update with hash tags and handles #AH @username",
+                "voteTalley": 3,
+                "comments": [
+                    {
+                        "firstName": "Lisa",
+                        "lastName": "Doe",
+                        "text": "comment text"
+                    },
+                    {
+                        "firstName": "Niki",
+                        "lastName": "Doe",
+                        "text": "comment text"
+                    },
+                    {
+                        "firstName": "Ben",
+                        "lastName": "Doe",
+                        "text": "comment text"
+                    }
+                ]
+			},
+			{
+				"firstName": "April",
+				"lastName": "Doe",
+                "timeLapse": 25,
+                "text": "Status update with hash tags and handles #AH @username",
+                "voteTalley": 7,
+                "comments": [
+                    {
+                        "firstName": "Lisa",
+                        "lastName": "Doe",
+                        "text": "comment text"
+                    },
+                    {
+                        "firstName": "Niki",
+                        "lastName": "Doe",
+                        "text": "comment text"
+                    },
+                    {
+                        "firstName": "Ben",
+                        "lastName": "Doe",
+                        "text": "comment text"
+                    }
+                ]
+			},
+			{
+				"firstName": "Mike",
+				"lastName": "Doe",
+                "timeLapse": 30,
+                "text": "Status update with hash tags and handles #AH @username",
+                "voteTalley": 10,
+                "comments": [
+                    {
+                        "firstName": "Lisa",
+                        "lastName": "Doe",
+                        "text": "comment text"
+                    },
+                    {
+                        "firstName": "Niki",
+                        "lastName": "Doe",
+                        "text": "comment text"
+                    },
+                    {
+                        "firstName": "Ben",
+                        "lastName": "Doe",
+                        "text": "comment text"
+                    }
+                ]
+			}
+]
